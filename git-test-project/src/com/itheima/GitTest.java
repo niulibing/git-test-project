@@ -17,5 +17,9 @@ public class GitTest {
 
         //这是一个关于git版本管理工具的测试类
 
+        for (int i = 0; i <10 ; i++) {
+            System.out.println("hello,world");
+        }
+
     }
 }
